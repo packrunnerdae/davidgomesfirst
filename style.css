@@ -1,0 +1,179 @@
+.logoImg {
+    height: 50px;
+}
+
+#para1 {
+    font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    padding: 30px;
+    margin: 50px;
+}
+
+.main-text {
+    color: #1f5961;
+}
+
+.large-font {
+    font-size: 25px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #d4f1ff;
+    padding: 20px;
+}
+
+#navbar a {
+    background-color: #d4f1ff;
+    padding-right: 30px;
+    text-decoration: none;
+    color: #1f5961;
+}
+
+.logoimages {
+    display: flex;
+    justify-content: center;
+}
+
+.logoimages img {
+    width: 200px;
+    padding: 5px;
+}
+
+
+/* Pastries Menu Page - NAVBAR */
+.nav img {
+    width: 100px;
+
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #d4f1ff;
+}
+
+.nav a {
+    padding-right: 30px;
+    text-decoration: none;
+    color: #1f5961;
+}
+/* Pastries Menu Page - TEXT */
+.center-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+}
+
+.center-text p {
+    font-size: 20px;
+    color: #1f5961;
+}
+
+/* Pastries Menu Page - IMAGES */
+.pastriesimages {
+    display: flex;
+    justify-content: center;
+}
+
+.pastriesimages img {
+    width: 200px;
+    padding: 5px;
+}
+
+.card {
+    text-align: center;
+}
+
+#footer {
+    display: flex;
+    justify-content: center;
+    background-color: #d4f1ff;
+}
+
+#footer a {
+    padding: 5px;
+    text-decoration: none;
+}
+
+/* Drinks Menu Page - NAVBAR */
+.nav2 img {
+    width: 100px;
+
+}
+
+.nav2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #d4f1ff;
+}
+
+.nav2 a {
+    padding-right: 30px;
+    text-decoration: none;
+    color: #1f5961;
+}
+/* Drinks Menu Page - TEXT */
+.center-text2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+}
+
+.center-text2 p {
+    font-size: 20px;
+    color: #1f5961;
+}
+
+/* Drinks Menu Page - IMAGES */
+.drinksimages {
+    display: flex;
+    justify-content: center;
+}
+
+.drinksimages img {
+    width: 200px;
+    padding: 5px;
+}
+
+.card2 {
+    text-align: center;
+}
+
+#footer2 {
+    display: flex;
+    justify-content: center;
+    background-color: #d4f1ff;
+}
+
+#footer2 a {
+    padding: 5px;
+    text-decoration: none;
+}
+
+h2 {
+    color: #1f5961;
+}
+
+p2 {
+    display: flex;
+    justify-content: center;
+    color: #1f5961;
+}
